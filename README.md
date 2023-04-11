@@ -10,5 +10,5 @@ A command-line implementation of **The Four Donkeys**
 
 ---
 
-Created by: Jose Maria Angelo Guerra<br>
+Created by: Angelo Guerra<br>
 Date Submitted: February 2022
