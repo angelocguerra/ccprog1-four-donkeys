@@ -1,4 +1,4 @@
-# ccprog1-four-donkeys
+# ccprog1-fourdonkeys
 **CCPROG1 Machine Project: Basic C Programming Project**
 
 A command-line implementation of **The Four Donkeys**
