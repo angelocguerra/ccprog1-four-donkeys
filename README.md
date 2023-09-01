@@ -4,9 +4,9 @@
 A command-line implementation of **The Four Donkeys**
 
 ### Pertinent Links:
-[Project Specifications](https://drive.google.com/file/d/11iISbCp6PXwmQ6juwKEVbnfVZXb25Orb/view?usp=sharing)<br>
-[Function Specifications](https://docs.google.com/document/d/11hKi4ecJLYfr4_IpWtibOeJsJarhY0cz/edit?usp=sharing&ouid=116264484245818282844&rtpof=true&sd=true)<br>
-[Test Scripts](https://docs.google.com/document/d/121WX_ipWAKJ31rgG7-nZN9HCLt1u-F0T/edit?usp=sharing&ouid=116264484245818282844&rtpof=true&sd=true)
+[Project Specifications](https://dlsuedu-my.sharepoint.com/:b:/g/personal/jose_maria_guerra_dlsu_edu_ph/EdVP29mptylInp8hp-ddYcoBvIif-5b2HpptUDSoXUcrfA?e=8qfwPx)<br>
+[Function Specifications](https://dlsuedu-my.sharepoint.com/:b:/g/personal/jose_maria_guerra_dlsu_edu_ph/EfHF-eCfQIFOsFhGL5tzLvkBAySM8zGJVuRqmoEEKcGlNw?e=eFc7Ou)<br>
+[Test Scripts](https://dlsuedu-my.sharepoint.com/:b:/g/personal/jose_maria_guerra_dlsu_edu_ph/EcT1x5LZW79Hs4e-aJY4rTsB5hdWWL1ttXHKPt7A-vdxKQ?e=gWjaQ5)
 
 ---
 
